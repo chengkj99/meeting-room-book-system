@@ -330,7 +330,7 @@ $vocab["monthafter"]         = "下个月";
 $vocab["gotothismonth"]      = "本月";
 
 // Used in {day week month}.php
-$vocab["no_rooms_for_area"]  = "这个区域没有定义会议室";
+$vocab["no_rooms_for_area"]  = "该区域未定义会议室";
 
 // Used in admin.php
 $vocab["edit"]               = "编辑";

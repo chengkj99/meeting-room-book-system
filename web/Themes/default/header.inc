@@ -16,6 +16,7 @@ function print_head($simple=false)
   // conditional comments.  So we have to do it in a <meta> tag, after the conditional comments
   // around the <html> tags.
   echo "<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n";
+  echo "<link rel=\"shortcut icon\" href=\"http://o9h84ok6f.bkt.clouddn.com/qiniu-185x185.png\"\/>\n";
   
   if (!$simple)
   {
